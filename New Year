@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>Semantic Elements</title>
+    </head>
+    <body>
+        <header>
+            <h1>
+                Happy New Year!
+            </h1>
+            I wish you all a great, bright, and a happy new year!
+        </header>
+
+        <main>
+            <section>
+                <h2>New Year</h2>
+                <article>
+                    <p>The New Year is a time of joy, hope, and reflection, celebrated by people worldwide in unique and meaningful ways. It
+                    marks the end of one chapter and the beginning of another, inspiring individuals to embrace fresh opportunities and set
+                    new resolutions. Traditions like fireworks, countdowns, and family gatherings bring a sense of togetherness, while
+                    cultural practices from different countries enrich the celebrations.</p>
+                </article>
+
+                <article>
+                    <p>On New Year's Day, everyone puts on new clothes and congratulates one another. On the occasion of the New Year, many
+                    different types of programmes are held in schools. The event of the New Year retains various fireworks, dance
+                    competitions, singing competitions, and so on. At New Year's, the market is ablaze with colour, with colourful lights,
+                    and other decorative items adorning every surface. On the occasion of the New Year, some countries have a state holiday,
+                    so people go on picnics. The New Year brings with it new hopes; we should always be happy in any situation, good or bad.</p>
+                </article>
+
+                <article>
+                    <p>Celebrations vary across cultures, but common traditions include parties, fireworks, and family gatherings. Many people
+                    enjoy spending time with loved ones, sharing meals, and exchanging good wishes. Some follow unique customs, like wearing
+                    specific colours for luck or lighting lamps to invite prosperity.</p>
+                </article>
+
+                <article>
+                    <p>The New Year also inspires individuals to plan goals, whether personal or professional. This spirit of renewal motivates
+                    people to work towards a better future. It’s a time to leave behind negativity and embrace positivity, gratitude, and
+                    kindness.</p>
+                </article>
+
+                <article>
+                    <p>For children, the New Year is filled with fun and excitement. Schools organise events like drawing competitions and
+                    encourage them to write resolutions. Adults often enjoy holiday festivities and reconnect with friends and family.</p>
+                </article>
+
+                <article>
+                    <p>Overall, New Year is not just about celebrations but also a time to reflect, plan, and start the journey toward
+                    achieving dreams. It unites people with a shared sense of hope and happiness for the year ahead.</p>
+                </article>
+
+                <article>
+                    <p>So, once again, I wish you all a happy new year!</p>
+                </article>
+            </section>
+            <figure>
+            <img src="ny image.jpg"/>
+            </figure>
+
+            <audio controls>
+            <source src="happy-new-year-270567.mp3" type="audio/mp3">
+            </audio>
+            <video src="245661_small.mp4" height="300" width="500" controls></video>
+            <video src="247886_small.mp4" height="300" width="500" controls></video>
+        </main>
+        <footer>
+            <p>Contact Me at +917032626521</p>
+        </footer>
+    </body>
+</html>
